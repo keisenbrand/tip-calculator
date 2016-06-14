@@ -4,13 +4,13 @@
 
 Submitted by: **Katherine Eisenbrand**
 
-Time spent: **1** hour spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ x ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -33,11 +33,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My README.md was in the wrong directory, so I had trouble pushing my changes. 
 
 ## Credits
 
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
+- https://guides.codepath.com/ios/Using-Git-with-Terminal#linking-to-a-remote-repository
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
